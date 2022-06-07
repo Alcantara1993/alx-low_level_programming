@@ -1,7 +1,7 @@
 /*
  *  * File: 1-alphabet.c
  *
- *   * Auth: Brennan D Baraban
+ *   * Auth: Qawiyyi M Uthman
 */
 
 #include "main.h"

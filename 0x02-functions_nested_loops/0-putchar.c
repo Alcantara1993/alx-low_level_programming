@@ -2,8 +2,8 @@
  *
  *  * File: 0-main.c
  *
- *   * Auth: Brennan D Baraban
- *
+ *   * Auth: Qawiyyi M Uthman 
+ *   *
  *    *
  *
 */
