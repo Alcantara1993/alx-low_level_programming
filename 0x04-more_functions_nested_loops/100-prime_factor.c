@@ -1,14 +1,8 @@
 #include <stdio.h>
 
 /**
- *
 * main - Finds and prints the largest prime
- *
- *
- *    *
- *
- *     * Return: Always 0.
- *
+* Return: Always 0.
 */
 
 int main(void)
